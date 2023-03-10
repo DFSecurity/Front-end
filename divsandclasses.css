@@ -2,29 +2,29 @@
 /* CSS */
 
 * {
-	margin: auto;
-	padding: 50px;
-	font-family: arial;
-	text-align: center;
+    margin: auto;
+    padding: 50px;
+    font-family: arial;
+    text-align: center;
 }
 
 h1 {
-	color: darkgray;
-	font-size: 25px;
+    color: darkgray;
+    font-size: 25px;
 }
 
 .outside {
-	font-size: 25px;
-	width: 75%;
-	height: 400px;
-	background-color: green;
-	color: white;
+    font-size: 25px;
+    width: 75%;
+    height: 400px;
+    background-color: green;
+    color: white;
 }
 
 .inside {
-	font-size: 25px;
-	width: 75%;
-	height: 150px;
-	background-color: yellow;
+    font-size: 25px;
+    width: 75%;
+    height: 150px;
+    background-color: yellow;
     color: grey;
 }
